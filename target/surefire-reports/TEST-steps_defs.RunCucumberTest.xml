@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="7" failures="0" name="steps_defs.RunCucumberTest" time="29.137" errors="0" skipped="0">
+<testsuite tests="7" failures="0" name="steps_defs.RunCucumberTest" time="33.562" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib"/>
@@ -62,11 +62,11 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="Random Date Generator" name="Number of random date to generate corresponds to the number in how many date to generate field" time="7.229"/>
-  <testcase classname="Random Date Generator" name="Generate random Dates button keep generating new dates" time="3.686"/>
-  <testcase classname="Random Date Generator" name="Generate date in different format" time="3.451"/>
-  <testcase classname="Random Date Generator" name="Not providing custom date format when output date format is set to custom date format" time="3.857"/>
-  <testcase classname="Random Date Generator" name="Generate custom Date format" time="3.876"/>
-  <testcase classname="Random Date Generator" name="All date generated are of same format which is set in output date format" time="3.529"/>
-  <testcase classname="Random Date Generator" name="Changing date format updated the result with the format selected" time="3.509"/>
+  <testcase classname="Random Date Generator" name="Number of random date to generate corresponds to the number in how many date to generate field" time="8.312"/>
+  <testcase classname="Random Date Generator" name="Generate random Dates button keep generating new dates" time="4.645"/>
+  <testcase classname="Random Date Generator" name="Generate date in different format" time="4.201"/>
+  <testcase classname="Random Date Generator" name="Not providing custom date format when output date format is set to custom date format" time="4.108"/>
+  <testcase classname="Random Date Generator" name="Generate custom Date format" time="5.03"/>
+  <testcase classname="Random Date Generator" name="All date generated are of same format which is set in output date format" time="3.789"/>
+  <testcase classname="Random Date Generator" name="Changing date format updated the result with the format selected" time="3.477"/>
 </testsuite>

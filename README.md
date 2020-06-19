@@ -14,7 +14,7 @@ Make sure maven is installed and is in path
 ## Running the tests
 
 To run the tests with the default options use the below command:
-navigate to the directory /idexlabs ( which has pom.xml file)
+navigate to the directory /IndexLabs ( which has pom.xml file)
 
 ```bash
  mvn test

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="726bfeda-1d26-42e5-b124-564b33fd6c3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/indexLabs/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/indexLabs/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +145,7 @@
       <workItem from="1592561978858" duration="1741000" />
       <workItem from="1592563931802" duration="1547000" />
       <workItem from="1592565806745" duration="1688000" />
-      <workItem from="1592567696328" duration="426000" />
+      <workItem from="1592567696328" duration="675000" />
     </task>
     <servers />
   </component>
